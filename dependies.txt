@@ -1,0 +1,5 @@
+react-router
+lucide-react
+taiwind-wrap
+
+npm install @radix-ui/react-toast class-variance-authority clsc
